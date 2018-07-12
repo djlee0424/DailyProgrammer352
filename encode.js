@@ -7,6 +7,6 @@ var value = 184393;
 
 var result = '';
 
-var result = base62Encode(value,result);
+result = base62Encode(value,result);
 
 console.log(result);
